@@ -6,11 +6,11 @@ import java.text.DecimalFormat;
 public class Q1 {
 
 	public static void main(String[] args) {
-		
+
 		Scanner s = new Scanner(System.in);
 		System.out.println("How many touchdowns did the QB throw?");
 		double TD = s.nextDouble();
-		
+
 		System.out.println("How many total yards did the QB gain?");
 		double YDS = s.nextDouble();
 		
